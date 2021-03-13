@@ -32,7 +32,7 @@ function Index() {
                   </span>
                 </h1>
                 <img
-                  src={"../../eu.png"}
+                  src={"../../eu.jpg"}
                   className="shadow-2xl w-64 border-4 border-pink-500 border-opacity-25"
                   alt="eu"
                 />
@@ -75,7 +75,7 @@ function Index() {
                 <i className="text-gray-400">24 de março de 2021 - 14:05</i>
                 <h1>#invadindooooo</h1>
                 <img
-                  src={"../../nos.png"}
+                  src={"../../nos.jpg"}
                   className="shadow-2xl w-64 border-4 border-pink-500 border-opacity-25"
                   alt="nós"
                 />
@@ -126,7 +126,11 @@ function Index() {
                 <p>
                   Parabéns meu amor, que o seu dia seja maravilhoso e que você
                   se sinta tão especial como você realmente é. Eu te amo demais
-                  meu amor e obrigado por tudo <span>❤️❤️</span>.
+                  meu amor e obrigado por tudo{" "}
+                  <span role="img" aria-label="corações">
+                    ❤️❤️
+                  </span>
+                  .
                 </p>
               </article>
             </div>
